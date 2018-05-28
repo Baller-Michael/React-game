@@ -1,2 +1,4 @@
 # React-game
-tic-tac-toe
+tic-tac-toe game
+Start learning React.
+First try with tutorial.
